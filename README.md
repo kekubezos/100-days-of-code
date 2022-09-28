@@ -7,3 +7,6 @@ Developed a program that genrated the name of  a band by asking the user for the
 
 This uses string concatenation, variables, input() and print() functions
 
+Day 2
+Developed a program that calculates tip. The program asks for the total bill you want to pay , how many people to split the bill and what percentage tip you want to give.
+It then calculates how much each person should pay.
